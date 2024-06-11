@@ -28,3 +28,5 @@ In this lab, you will enhance your pet bakery webpage by adding links and images
 🛑 **Only use this as a reference** 🛑
 
 💾 **Not something to copy and paste** 💾
+
+**Note:**  This lab references a solution file located [here](https://github.com/HackerUSA-CE/sdai-wde-d1-Essential-HTML-Revisited-together/blob/solution/index.html) (link not shown).
