@@ -3,6 +3,8 @@
 ## Description 📄
 In this lab, you will enhance your pet bakery webpage by adding links and images. This will help you understand how to use attributes in HTML.
 
+All images have been provided for you in the `assets/images` folder. 
+
 ---
 
 ## Acceptance Criteria 📋
