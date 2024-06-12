@@ -17,12 +17,19 @@ All images have been provided for you in the `assets/images` folder.
 ## ToDo list ✅
 **Attention**: When you complete a task, put an `x` in the middle of the brackets to mark it off your ToDo list.
 
-1. [ ] Add a link to the pet bakery's website with the text: `Visit our Website`.
-2. [ ] From the `images` folder in the `assets` directory, add an image for Dog Biscuits with a placeholder URL and the `alt` attribute as `Dog Biscuits` or a better description.
-3. [ ] Add another image from the `images` folder for Cat Treats with a placeholder URL and the `alt` attribute as `Cat Treats` or a better description.
-4. [ ] Add another image from the `images` folder for Bird Seed Bars with a placeholder URL and the `alt` attribute as `Bird Seed Bars` or a better description.
+1. [ ] Create a section with the id `product-cards` and wrap the images in it.
+2. [ ] Inside the section, create a div for each product: Dog Biscuits, Cat Treats, and Bird Seed Bars. Use appropriate heading tags for the product names and paragraph tags for the descriptions.
+    - **Product Name (Dog Biscuits):** `Dog Biscuits`
+    - **Product Description (Dog Biscuits):** `Crunchy and healthy biscuits for your dog.`
+    - **Product Name (Cat Treats):** `Cat Treats`
+    - **Product Description (Cat Treats):** `Delicious and nutritious treats for your cat.`
+    - **Product Name (Bird Seed Bars):** `Bird Seed Bars`
+    - **Product Description (Bird Seed Bars):** `Seed bars packed with essential nutrients for birds.`
+3. [ ] Within each div, move the image elements to each corresponding div and put them above the header. Use the hotkeys for your operating system:
+   1. [ ] **Windows:** - Alt + Up Arrow or Down Arrow
+   2. [ ] **MacOS** - Opt + Up Arrow or Down Arrow
 
-🎊 **Fantastic work! You just enhanced your HTML coding skills.** 🎊
+🎊 **Fantastic work! You just created detailed product cards using div elements.** 🎊
 
 ---
 
