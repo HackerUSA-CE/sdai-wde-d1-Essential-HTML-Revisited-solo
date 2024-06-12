@@ -34,9 +34,3 @@ All images have been provided for you in the `assets/images` folder.
 
 ---
 
-### Solution codebase 👀
-🛑 **Only use this as a reference** 🛑
-
-💾 **Not something to copy and paste** 💾
-
-**Note:**  This lab references a solution file located [here](https://github.com/HackerUSA-CE/sdai-wde-d1-Essential-HTML-Revisited-together/blob/solution/index.html) (link not shown).
