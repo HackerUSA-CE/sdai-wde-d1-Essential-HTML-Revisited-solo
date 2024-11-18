@@ -12,6 +12,7 @@ All images have been provided for you in the `assets/images` folder.
 2. **Image Insertion:** Add images for each product using the `<img>` tag.
 3. **Alt Attribute Usage:** Use the `alt` attribute for each image.
 4. **Hotkey Navigation:** Move an entire line of code using hotkeys to quicken code writing.
+5. **Fix Image Width Inline:** Adjust the width of the images using the `style` attribute to prevent oversized images.
 
 ---
 
@@ -29,6 +30,8 @@ All images have been provided for you in the `assets/images` folder.
 3. [ ] Within each div, move the image elements to each corresponding div and put them above the header. Use the hotkeys for your operating system:
    1. [ ] **Windows:** - Alt + ⬆️ or ⬇️
    2. [ ] **MacOS** - Opt + ⬆️ or ⬇️
+4. [ ] Adjust the image width using inline styles to fix oversized images:
+   - **Add a style attribute to the `<img>` tag to set a fixed width.** 
 
 🎊 **Fantastic work! You just created detailed product cards using div elements.** 🎊
 
